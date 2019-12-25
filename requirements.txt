@@ -1,0 +1,2 @@
+dnslib==0.9.10
+python-pytun==2.3.0
