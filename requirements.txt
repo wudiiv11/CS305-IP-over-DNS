@@ -1,2 +1,2 @@
-dnslib==0.9.10
+dnslib==0.9.17
 python-pytun==2.3.0
